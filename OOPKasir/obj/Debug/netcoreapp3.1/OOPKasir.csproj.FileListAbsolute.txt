@@ -1,0 +1,14 @@
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.exe
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.deps.json
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.runtimeconfig.json
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.runtimeconfig.dev.json
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.dll
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\bin\Debug\netcoreapp3.1\OOPKasir.pdb
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.csproj.AssemblyReference.cache
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.AssemblyInfoInputs.cache
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.AssemblyInfo.cs
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.csproj.CoreCompileInputs.cache
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.dll
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.pdb
+E:\1SiKerja\MII\MCC\NET\codefile\OOPKasir\OOPKasir\obj\Debug\netcoreapp3.1\OOPKasir.genruntimeconfig.cache
